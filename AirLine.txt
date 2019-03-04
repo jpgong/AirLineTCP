@@ -1,0 +1,986 @@
+0A:琥珀航空
+0B:蓝色航空
+0J:捷俱航空
+0K:科克舍套航空
+1A:艾玛迪斯全球旅游分销系统公司
+1B:环亚旅游资讯系统有限公司
+1C:EDS Information Business
+1D:Radixx Solutions International
+1E:中国民航信息网络股份有限公司
+1F:INFINI Travel Information
+1G:伽利略国际公司
+1H:Siren-Travel
+1I:Netjets Aviation
+1J:爱克森斯国际科技有限公司
+1K:Sutra
+1L:Open Skies
+1M:JSC Transport Automated Information Systems (TAIS)
+1N:Navitaire
+1P:WorldSpan
+1Q:Sirena
+1R:海南凤凰信息系统
+1S:Sabre
+1T:1Time Airline
+1U:Polyot Sirena
+1Y:Electronic Data Systems Corporation
+1Z:Sabre Pacific
+2A:德国铁路
+2C:法国铁路
+2D:Aero VIP
+2F:边际飞行服务
+2G:圣璜航空
+2H:大力士高速列车
+2I:Star Up
+2J:布基纳航空
+2L:赫尔维蒂航空
+2M:摩尔多瓦航空
+2N:Yuzmashavia
+2O:Fly Salone
+2P:菲律宾飞鹰航空
+2R:维亚铁路
+2S:岛屿快递
+2T:海地大使航空
+re:海地
+2U:几内亚空中快递
+2V:美国国铁
+2W:Welcome Air
+3A:珠江客运
+3E:Air Choice One
+3G:Gading Sari
+3H:因纽特航空
+3K:捷星亚洲航空
+3M:银色航空
+3N:乌格航空
+3O:摩洛哥阿拉伯航空
+3U:四川航空
+3Q:云南航空
+4A:基里巴斯航空
+4D:西奈航空
+4H:孟加拉联合航空
+4K:Kenn Borek Air
+4L:阿斯塔纳航空
+4O:墨西哥因特航空
+4R:皇族之旅
+4X:水星航空
+4U:日耳曼之翼
+4Z:南非航空连结
+5B:百善航空
+5C:CAL Cargo Air Lines
+5D:V-Bird Airlines
+5G:Skyservice Airlines
+5J:宿雾太平洋航空
+5L:Aerosur
+5N:北俄罗斯航空
+5O:欧洲邮政航空
+5P:Skyeurope Airlines Hungary
+5T:北加拿大航空
+5W:Astraeus
+5X:优比速航空
+5Y:亚特拉斯航空
+6B:TUIfly Nordic
+6E:印地高航空
+6G:威尔斯航空
+6H:以斯雷航空
+6J:亚洲天网航空
+6P:Club Air
+6R:联盟货运航空
+6U:乌克兰航空
+6V:维加斯航空
+6W:萨拉托夫航空
+6Y:山猫航空
+6Z:Panavia,S.A.
+7B:克拉斯诺亚尔斯克航空
+7C:济州航空
+7D:顿巴斯航空
+7F:第一航空
+7G:星悦航空
+7K:科加雷姆航空
+7L:Sun d'Or International Airlines
+8A:亚特拉斯蓝天航空
+8B:加勒比海之星航空公司
+8C:东星航空
+8D:博览会航空
+8E:白令航空
+8F:Fischer Air
+8G:天使航空
+8H:法国直升机
+8J:科米国际航空
+8L:云南祥鹏航空
+8M:缅甸国际航空
+8N:Nordkalottflyg AB
+8O:西海岸航空
+8P:太平洋海岸航空
+8R:Transporte Aereo Regional do Interior Paulista
+8S:喷射飞航
+8T:Air Tindi
+8U:泛非航空
+8V:Wright Air
+8W:BAX Global
+8Y:蒲隆地航空
+8Z:LASER
+9C:春秋航空
+9D:彼尔姆航空
+9E:颠峰航空
+9I:麻雀航空
+9L:科尔根航空
+9R:普吉航空
+9U:摩尔多瓦国家航空
+9W:捷特航空
+9Y:哈萨克航空
+A2:Cielos Airlines
+A3:爱琴海航空
+A4:Southern Winds
+A5:Airlinair
+A6:阿尔卑斯航空
+A7:彗星航空
+A8:贝宁高尔夫航空
+A9:格鲁吉亚航空
+AA:美国航空
+AB:柏林航空
+AC:加拿大航空
+AD:天堂航空
+AE:华信航空
+AF:法国航空
+AG:Air Contractors
+AH:阿尔及利亚航空
+AI:印度航空
+AJ:尼日利亚航空承包公司
+AK:亚洲航空
+AL:Transaviaexport Cargo Airline
+AM:墨西哥国际航空
+AP:Air One
+AQ:阿罗哈航空公司
+AR:阿根廷航空
+AS:阿拉斯加航空
+AT:摩洛哥皇家航空
+AU:Austral Lineas Aereas-Cielos del Sur
+AV:哥伦比亚航空
+AW:Schreiner Airways
+AX:州际航空
+re:美国
+AY:芬兰航空
+AZ:意大利航空
+B1:布加勒斯特航空
+B2:白俄罗斯航空
+B3:贝尔韦尤航空公司
+B4:B.A.C.H. Flugbetriebs
+B5:东非旅行航空
+B6:捷蓝航空
+B7:立荣航空
+B8:厄立特里亚航空
+B9:伊朗陆游航空公司
+BA:英国航空
+BB:海运航空
+BC:天马航空
+BD:英伦航空
+BE:欧洲泽西岛航空
+BF:蓝鸟货运航空公司
+BG:孟加拉航空
+BH:鹰空航空服务
+BI:汶莱皇家航空
+BJ:突尼斯尼韦尔航空
+BK:奥凯航空
+BL:越南太平洋航空
+BM:Bayu Indonesia Air
+BN:Forward Air International Airlines
+BO:印度尼西亚波拉克航空
+BP:博茨瓦纳航空
+BQ:多米尼加航空
+BR:长荣航空
+BS:英国国际直升机公司
+BT:波罗的海航空
+BV:Blue Panorama Airlines
+BW:英国西印度航空公司
+BX:釜山航空
+BY:汤姆森航空
+BZ:冠石航空
+C0:中央之翼
+C3:Independent Carrier
+C4:Zimex Aviation Limited
+C5:Champlain Enterprises
+C6:Canjet Airlines
+C7:Rico Linhas Aereas
+C8:芝加哥快捷航空
+re:美国
+C9:天颖航空
+CA:中国国际航空公司
+CB:ScotAirways
+CC:冰岛亚特兰大航空
+CD:印度联盟航空
+CE:国家航空
+CF:城市航空
+CF:中国邮政航空
+CG:巴布亚新畿内亚航空
+CH:伯米吉航空
+CI:中华航空
+CJ:中国北方航空
+CK:中国货运航空公司
+CL:汉莎城际航空
+CM:巴拿马航空
+CN:Westward Airways
+CO:美国大陆航空
+CQ:阳光航空
+CR:OAG Worldwide
+CT:民航空运公司
+CU:古巴航空
+CV:卢森堡国际货运航空公司
+CW:马绍尔群岛航空
+CX:国泰航空
+CY:塞浦路斯航空
+CZ:中国南方航空公司
+D2:Severstal Aircompany
+D3:达洛航空
+D5:Nepc Airlines
+D6:Interair South Africa
+D7:Dinar Lineas Aereas
+D8:Diamond Sakha Airlines
+D9:Donavia
+DA:格鲁吉亚航空
+DB:不列特航空
+DC:布拉森支线航空
+DD:Conti-Flug
+DE:Prime Air Inc.
+DF:秃鹰航空
+DG:东太平洋航空
+DH:DHL
+DJ:Davison DragonAir
+DK:Eastland Air
+DL:达美航空
+DM:马士基航空
+DN:Air Deccan
+DP:Air 2000
+DQ:海岸航空运输公司
+DR:Hyères Aero Services
+DS:瑞士易捷航空
+DT:安哥拉航空
+DU:Hemus Air
+DV:Nantucket Airlines
+DW:Aero Charter
+DX:丹麦航空运输公司
+DY:挪威航空快线
+DZ:Air Metro North
+E3:多莫杰多沃航空
+E4:亚洲国际航空
+E5:萨马拉航空
+E7:Estafeta Carga Aérea
+E8:Alpi Eagles
+E9:波士顿－缅因航空
+EA:欧洲航空快线
+EB:Wamos Air
+EC:开放天空
+ED:蓝色航空
+EE:Aero Airlines
+EG:日本亚细亚航空
+EH:SAETA
+EI:爱尔兰航空
+EJ:新英格兰航空
+EK:阿联酋航空
+EL:叶林航空
+EM:帝国航空
+EN:多洛米蒂航空
+EO:荷瓦波拉航空
+EP:伊朗赛尔玛航空
+EQ:厄瓜多尔航空
+ER:爱仕达航空货运
+ES:DHL航空
+ET:埃塞俄比亚航空
+EU:成都航空
+EV:快捷航空
+EW:欧洲之翼
+EX:圣多明各航空
+EY:阿提哈德航空
+EZ:常青国际航空
+F2:Safarilink Aviation
+F3:FAI rent-a-jet
+F4:弗拉门戈航空
+F6:中国航空
+F7:达尔文航空
+F8:天才航空
+F9:边疆航空
+FA:萨法航空
+FB:保加利亚航空
+FC:VivaColombia
+FD:泰国亚洲航空
+FE:远东航空
+FG:阿里亚纳阿富汗航空
+FH:自由鸟航空
+FI:冰岛航空
+FJ:斐济航空
+FK:KF 货运
+FL:穿越航空
+FM:上海航空
+FQ:Fenix Airways
+FR:瑞安航空
+FS:西法克斯航空
+FT:暹粒国际航空
+FU:福州航空
+FV:俄罗斯国家航空
+FW:IBEX航空
+FX:联邦快递
+FY:飞萤航空
+FZ:迪拜航空
+G0:加纳国际航空
+G3:巴西航空
+G4:忠实航空
+G5:华夏航空
+G6:吴哥航空
+G7:GoJet Airlines
+G8:Go Air
+G9:阿拉伯航空
+GA:嘉鲁达印尼航空
+GB:ABX 航空
+GC:甘比亚国际航空
+GE:复兴航空
+GF:海湾航空
+GG:Sky Lease Cargo
+GH:Globus Airlines
+GJ:长龙航空
+GK:捷星日本航空
+GL:格陵兰航空
+GM:日耳曼飞航
+GN:加彭航空
+GO:ULS货运航空
+GQ:Big Sky Airlines
+GR:奥尔德尼航空服务
+GS:天津航空
+GT:GB航空
+GU:危地马拉航空
+GV:加蓬天空航空
+GW:希腊天空航空
+GX:北部湾航空
+GY:多彩贵州航空
+GZ:拉罗汤加航空
+H2:智利天空航空
+H4:岛际航空
+H5:马加丹航空
+H6:保加利亚包机
+H8:俄罗斯远东航空
+H9:喜玛拉雅航空
+HA:夏威夷航空
+HB:亚洲亚特兰提克航空
+HD:北海道国际航空
+HF:象牙海岸航空
+HG:尼基航空
+HH:塔班航空
+HJ:塔斯曼货运航空
+HM:塞舌尔航空
+HO:吉祥航空
+HP:美西航空
+HQ:比利时托马斯库克航空
+HR:汉亚航空
+HS:瑞典直通航空
+HT:宁夏货运航空
+HU:海南航空
+HV:泛航航空
+HW:冰岛快捷航空
+HX:香港航空
+HY:乌兹别克航空
+HZ:阿芙乐尔航空
+I2:西班牙航空快运
+I5:印度亚洲航空
+I9:意大利航天
+IA:伊拉克航空
+IB:西班牙国家航空
+IC:印度航空
+IF:巴格达航空
+IG:意大利晷航空
+IH:额尔齐斯航空
+II:IBC航空
+IJ:长城航空
+IL:特里加纳航空
+IM:ATMA航空公司
+IN:马其顿航空
+IO:伊尔航空
+IP:飞天女神国际航空
+IR:伊朗航空
+IT:台湾虎航
+IV:福建航空
+IW:AOM French Airlines
+IX:印度航空快线
+IY:也门航空
+IZ:阿齐亚以色列航空
+J1:一捷航空
+J2:阿塞拜疆航空
+J3:西北航空
+J4:巴德尔航空
+J7:中心航空
+J8:成功航空
+J9:半岛航空
+JA:波黑航空
+JB:里奇蒙
+JC:日航快捷
+JD:首都航空
+JE:芒果航空
+JF:捷特亚洲航空
+JG:捷高航空
+JH:富士梦幻航空
+JI:梅拉杰航空
+JJ:巴西天马航空
+JK:西班牙斯班航空
+JL:日本航空
+JM:牙买加航空
+JO:日线航空
+JP:亚德里亚航空
+JQ:捷星航空
+JR:幸福航空
+JS:高丽航空
+JT:狮子航空
+JU:塞尔维亚航空
+JV:贝尔斯金航空
+JW:香草航空
+JY:国米加勒比海航空
+K4:卡利塔航空
+K5:港口航空
+K6:柬埔寨吴哥航空
+K7:嘎莫萨航空
+K9:通里萨航空
+KA:国泰港龙航空
+KB:不丹皇家航空
+KE:大韩航空
+KF:蓝天航空
+KJ:仁川航空
+KL:荷兰皇家航空
+KM:马尔他航空
+KN:中国联合航空
+KO:阿拉斯加中央快运
+KQ:肯亚航空
+KS:半岛航空
+KU:科威特航空
+KV:矿水城航空
+KW:KF货运
+KX:开曼航空
+KY:昆明航空
+KZ:日本货物航空
+L3:DHL
+L4:意大利劳达航空
+L5:大西洋辅助航空
+L6:毛里塔尼亚国际航空
+L8:阿弗里奇航空
+LA:智利国家航空
+LB:LAB航空
+LC:刚果赤道航空
+LD:香港华民航空
+LG:卢森堡航空
+LH:汉莎航空
+LI:背风群岛航空
+LJ:真航空
+LK:卢克索航空
+LL:迈阿密国际航空
+LM:洛根航空
+LN:利比亚航空
+LO:波兰航空
+LP:秘鲁国家航空
+LQ:几内亚航空
+LR:LACSA
+re:哥斯达黎加
+LT:LTU国际航空
+LV:美佳航空
+LW:太平洋之翼
+LX:瑞士国际航空
+LY:以色列航空
+LZ:瑞士环球航空
+M3:MBSA货运航空
+M5:肯莫尔航空
+M6:美捷国际航空
+M7:马斯航空
+M8:天捷航空
+MA:匈牙利航空
+MB:MNG航空
+MC:美国空军机动司令部
+MD:马达加斯加航空
+ME:中东航空
+MF:厦门航空
+MG:Midex航空
+MH:马来西亚航空
+MI:胜安航空
+MJ:锡兰航空
+MK:毛里求斯航空
+MM:乐桃航空
+MN:南非商务航空
+MO:泰然航空
+MP:马丁航空
+MR:毛里塔尼亚航空
+MS:埃及航空
+MT:托马斯库克航空
+MU:中国东方航空
+MV:亚美尼亚国际航空
+MW:莫库勒勒航空
+MX:墨西哥航空
+MY:玛雅岛航空
+MZ:鸽航
+N2:地中海航空
+N3:马斯航空
+N4:北风航空
+N7:海王星航空
+N8:中富航空
+N9:挪威航空
+NB:斯特林银航空
+NC:北方货运航空
+ND:天翼航空
+NE:欧洲天空航空
+NF:瓦努阿图航空
+NG:维也纳航空公司
+NH:全日本空输
+NI:葡萄牙航空运输
+NJ:北欧国际航空
+NK:精神航空
+NL:沙欣航空
+NN:VIM航空
+NP:尼罗河航空
+NQ:Air Japan
+NS:河北航空
+NT:加那利航空
+NU:日本越洋航空
+NV:中部航空
+NW:西北航空
+NX:澳门航空
+NY:冰岛航天
+NZ:纽西兰航空
+O3:顺丰航空
+O4:安戳科航空
+O6:巴西哥伦比亚航空
+O8:泰国暹逻航空
+O9:挪威航空
+OA:奥林匹克航空
+OB:阿斯特拉罕航空
+OC:东方空桥
+OD:马印航空
+OE:开罗航天
+OG:新西兰航空货运
+OH:商务航空
+OI:内地航空
+OJ:牙买加飞天航空
+OK:捷克航空
+OM:蒙古民用航空
+ON:奥尔航空
+OO:天西航空
+OP:帕格萨斯航空
+OQ:重庆航空
+QR:荷兰途易旅游
+OS:奥地利航空
+OU:克罗埃西亚航空
+OV:爱沙尼亚航空
+OW:Executive Airlines
+OX:泰国东方航空
+OY:奥斯特拉尔航空
+OZ:韩亚航空
+P4:索萨航空
+P5:哥伦比亚巴拿马航空
+P6:帕斯卡航空
+P7:EastLine
+P9:亚太航空 (美国)
+PA:泛美航空
+PB:省际航空
+PC:飞马航空
+PD:波特航空
+PF:西甲航空
+PG:曼谷航空
+PI:保罗航空
+PJ:圣皮埃尔航空
+PK:巴基斯坦国际航空
+PL:南部包机航空
+PM:加那利亚航空
+PN:西部航空
+PO:美国博立航空公司
+PQ:菲律宾亚洲航空
+PR:菲律宾航空
+PS:乌克兰国际航空
+PT:瑞典西方航空
+PV:瑞士私人航空
+PW:坦桑尼亚精密航空
+PX:新畿内亚航空
+PY:苏里南航空
+PZ:巴拉圭天马航空
+Q2:岛屿航空
+Q3:PB航空
+Q5:40英里航空
+Q7:巴哈马天际航空
+QA:希姆伯尔航空
+QB:格什姆岛航空
+QC:喀麦隆航空
+QF:澳洲航空
+QG:连城航空
+QH:吉尔吉斯航空
+QK:加拿大爵士航空
+QM:马拉维航空
+QP:星光航空
+QQ:澳洲联盟航空
+QR:卡塔尔航空
+QS:Travel Service Airlines
+QT:Tampa Cargo S.A.S
+QV:寮国航空
+QW:青岛航空
+QX:地平线航空
+QY:欧洲航空运输公司
+QZ:印尼亚洲航空
+R2:奥伦航空
+R3:雅库茨克航空
+R5:约旦航空
+R7:阿莎卡航空
+RA:尼泊尔航空
+RB:叙利亚阿拉伯航空
+RC:大西洋航空公司
+RF:佛罗里达西部国际航空公司
+RG:巴西航空
+RI:曼达拉欣丰虎航
+RJ:皇家约旦航空
+RN:Rayani Air
+RO:罗马尼亚航空
+RP:肖托夸航空
+RQ:阿富汗卡姆航空
+RR:英国皇家空军
+RU:空桥货运航空
+RV:加拿大胭红航空
+RX:丽晶航空
+RY:皇翼航空
+RZ:萨莎航空
+S2:撒哈拉航空
+S3:圣巴巴拉航空
+S4:亚速尔国际航空
+S5:小星球航空
+S6:日出航空
+S7:西伯利亚航空
+S8:天空首都航空
+SA:南非航空
+SB:喀里多尼亚航空
+SC:山东航空
+SD:苏丹航空
+SE:法国特大航空
+SF:塔斯利航空
+SG:香料航空
+SH:FlyMe
+SI:蓝色群岛航空
+SJ:自由航空
+SK:北欧航空
+SL:泰国狮子航空
+SM:开罗航空
+SN:布鲁塞尔航空
+SQ:新加坡航空
+ST:西塔航空
+SU:俄罗斯航空
+SV:沙特阿拉伯航空
+SW:纳米比亚航空
+SX:天空工作航空
+SY:太阳城航空
+SZ:中国西南航空
+T0:秘鲁哥伦比亚航空
+T3:英国东方航空
+T4:希腊捷特航空
+T5:土库曼斯坦航空
+T7:Twin Jet
+T9:环子午线航空
+TA:哥伦比亚萨尔瓦多航空
+TB:捷特飞航空
+TC:坦桑尼亚航空
+TD:欧洲亚特兰提斯航空
+TE:立陶宛航空
+TF:马尔默航空
+TG:泰国国际航空
+TH:金鹏航空
+TJ:贸易风航空
+TK:土耳其航空
+TL:澳洲北方航空
+TM:LAM莫桑比克航空
+TN:大溪地航空
+TO:法国泛航航空
+TP:葡萄牙航空
+TQ:Tandem Aero
+TR:酷航
+TS:加拿大越洋航空
+TT:澳洲虎航
+TU:突尼斯航空
+TV:西藏航空
+TW:德威航空
+TX:加勒比海航空
+TY:喀里多尼亚空中运输
+U2:易捷航空
+U3:艾维斯航空
+U5:卡妮娜航空
+U6:乌拉尔航空
+U8:亚美尼亚航空
+U9:鞑靼斯坦航空
+UA:联合航空
+UB:缅甸航空
+UC:LAN货运
+UD:六角航空
+UF:乌克兰地中海航空
+UG:突尼斯航空快运
+UI:合金航空
+UJ:AlMasria Universal Airlines
+UK:维斯特拉航空
+UL:斯里兰卡航空
+UM:津巴布韦航空
+UN:亚联公务机
+UO:HK Express
+UP:巴哈马航空
+UQ:乌鲁木齐航空
+UT:UTair航空
+UU:南方航空
+UW:圭亚那通用航空
+UX:欧罗巴航空
+UY:高加索航空
+V0:委内瑞拉航空
+V2:Avialeasing
+V3:卡帕特航空
+V4:别克斯航空连结
+V7:塞内加尔航空
+V8:伊里亚姆纳空中的士
+V9:泰国越捷航空
+VA:维珍澳洲航空
+VC:包机航空运输
+VF:惠旅航空
+VH:Aeropostal
+VI:伏尔加-第聂伯航空
+VJ:柬埔寨皇家航空
+VJ:越捷航空
+VK:瓜地洛普航空
+VN:越南航空
+VR:佛得角航空
+VS:维珍大西洋航空
+VT:塔希提航空
+VV:空中世界航空
+VX:维珍美国航空
+VY:伏林航空
+VZ:个人旅游航空
+W3:Flyhy Cargo Airlines
+W5:马汉航空
+W6:维兹航空
+W8:加拿大喷气机航空
+W9:Sky Service Bvba
+WA:荷兰皇家城市短途航空
+WB:卢旺达航空
+WE:微笑泰航
+WF:维德勒航空
+WH:WebJet Linhas Aéreas
+WI:怀特航空
+WK:美洲猎鹰
+WM:向风群岛航空
+WN:西南航空
+WO:世界航空
+WS:西捷航空
+WU:乌克兰维兹航空
+WV:瑞典航空
+WW:WOW航空
+WX:城捷航空
+WY:阿曼航空
+X0:新疆航空
+X3:Hapag-Lloyd Express
+X5:阿非利加角航空
+X7:赤塔航空
+XC:考兰登航空
+XF:伏拉迪沃斯克航空
+XG:德国极光快线
+XJ:美莎巴航空
+XJ:泰国亚洲航空X
+XK:科西嘉航空
+XM:J-Air
+XO:LTE国际航空
+XQ:极光快线
+XS:SITA
+XT:Air Exel
+XU:通里萨航空
+XY:纳斯航空
+XW:酷鸟航空
+XZ:南非航空快运
+Y1:旅游技术联系
+Y3:狮鹫航空
+Y7:北星航空
+Y8:扬子江快运
+Y9:基什航空
+YC:亚马尔航空
+YG:南部航空
+YK:土耳其塞浦路斯航空
+YL:利比亚之翼
+YM:黑山航空
+YN:魁北克航空
+YS:欧洲区域航空公司
+YT:多哥航空
+YV:美莎航空
+YU:欧洲大西洋航空
+YW:诺斯特姆航空
+YX:中西航空
+Z2:飞龙航空
+ZA:因特维亚航空
+ZB:君主航空
+ZC:峡谷航空
+ZD:Ewa航空
+ZE:易斯达航空
+ZG:非凡航空
+ZH:深圳航空
+ZI:蓝鹰航空
+ZL:区域快线
+ZM:飞马亚洲航空
+ZN:Navegacion y Servicios Aéreos Canarios
+ZS:Azzurra Air
+ZT:泰坦航空
+ZU:太阳神航空
+ZW:威斯康辛航空公司
+ZV:威航
+ZX:格鲁吉亚航空
+AQG	安庆
+BFU	蚌埠
+FUG	阜阳
+HFE	合肥
+TXN	黄山
+NAY	北京南苑
+BJS	北京首都
+FOC	福州
+JJN	晋江
+LCX	连城
+WUS	武夷山
+XMN	厦门
+CHW	酒泉
+DNH	敦煌
+IQN	庆阳
+JGN	嘉峪关
+LHW	兰州
+CAN	广州
+FUO	佛山
+MXZ	梅县
+SWA	汕头
+SZX	深圳
+ZHA	湛江
+ZUH	珠海
+BHY	北海
+KWL	桂林
+LZH	柳州
+NNG	南宁
+WUZ	梧州
+ACX	兴义
+AEB	百色
+KWE	贵阳
+TEN	铜仁
+ZYI	遵义
+HZH	黎平
+AVA	安顺
+HAK	海口
+SYX	三亚
+HDG	邯郸
+SHP	秦皇岛
+SJW	石家庄
+AYN	安阳
+CGO	郑州
+LYA	洛阳
+NNY	南阳
+DQA	大庆
+HEK	黑河
+HRB	哈尔滨
+JMU	佳木斯
+MDG	牡丹江
+NDG	齐齐哈尔
+ENH	恩施
+WUH	武汉
+XFN	襄樊
+YIH	宜昌
+CGD	常德
+CSX	长沙
+DYG	张家界
+HJJ	芷江
+LLF	永州
+CGQ	长春
+JIL	吉林
+TNH	通化
+CZX	常州
+LYG	连云港
+NKG	南京
+NTG	南通
+WUX	无锡
+XUZ	徐州
+HIA	淮安
+YNZ	盐城
+JDZ	景德镇
+JGS	井冈山
+JIU	九江
+KHN	南昌
+KOW	赣州
+AOG	鞍山
+CHG	朝阳
+CNI	长海
+DDG	丹东
+DLC	大连
+JNZ	锦州
+SHE	沈阳
+YNJ	延吉
+BAV	包头
+CIF	赤峰
+DSN	鄂尔多斯
+HET	呼和浩特
+HLD	海拉尔
+HLH	乌兰浩特
+NZH	满洲里
+TGO	通辽
+WUA	乌海
+XIL	锡林浩特
+INC	银川
+GOQ	格尔木
+XNN	西宁
+DOY	东营
+JNG	济宁
+TAO	青岛
+TNA	济南
+WEF	潍坊
+WEH	威海
+YNT	烟台
+CIH	长治
+DAT	大同
+LYI	临沂
+TYN	太原
+YCU	运城
+AKA	安康
+ENY	延安
+HZG	汉中
+UYN	榆林
+SIA	西安
+PVG	上海浦东
+SHA	上海虹桥
+CTU	成都
+DAX	达县
+GYS	广元
+JZH	九寨沟
+LZO	泸州
+MIG	绵阳
+NAO	南充
+PZI	攀枝花
+WXN	万州
+XIC	西昌
+YBP	宜宾
+TSN	天津
+BPX	昌都
+LXA	拉萨
+AKU	阿克苏
+FYN	富蕴
+HMI	哈密
+HTN	和田
+IQM	且末
+KCA	库车
+KHG	喀什
+KRL	库尔勒
+KRY	克拉玛依
+TCG	塔城
+URC	乌鲁木齐
+YIN	伊宁
+BSD	保山
+DIG	迪庆香格里拉
+DLU	大理
+JHG	西双版纳
+KMG	昆明
+LJG	丽江
+LNJ	临沧
+LUM	德宏芒市
+SYM	思茅
+ZAT	昭通
+HGH	杭州
+HSN	舟山
+HYN	台州/黄岩
+JUZ	衢州
+NGB	宁波
+WNZ	温州
+YIW	义乌
+CKG	重庆
+HKG	香港
+MFM	澳门
+LDS	伊春
+NBS	长白山
+OHE	漠河
+TCZ	驼峰
+AAT	阿勒泰
